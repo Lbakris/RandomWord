@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#wrapper{
+  width: 700px;
+  height: 200px;
+  background-color: grey;
+  margin: 0px auto;
+  color: white;
+}
+#wrapper h2{
+  margin: 0px auto 0px 200px;
+  vertical-align: top;
+}
+#numberbox form{
+  margin: 0px 300px 0px 300px;
+}
